@@ -1,0 +1,3 @@
+type,version,originX,originY,left,top,width,height,fill,stroke,strokeWidth,strokeDashArray,strokeLineCap,strokeDashOffset,strokeLineJoin,strokeUniform,strokeMiterLimit,scaleX,scaleY,angle,flipX,flipY,opacity,shadow,visible,backgroundColor,fillRule,paintFirst,globalCompositeOperation,skewX,skewY,rx,ry
+rect,4.4.0,left,top,451,75,0,0,#EA101077,black,0,,butt,0,miter,True,4,1,1,0,False,False,1,,True,,nonzero,fill,source-over,0,0,0,0
+rect,4.4.0,left,top,222,49,51,55,#EA101077,black,0,,butt,0,miter,True,4,1,1,0,False,False,1,,True,,nonzero,fill,source-over,0,0,0,0
